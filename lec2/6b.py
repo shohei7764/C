@@ -1,0 +1,7 @@
+x = input("what is x?\n")
+y = input("what is y?\n")
+print("{} + {} = {}".format(x,y,x+y))
+print("{} - {} = {}".format(x,y,x-y))
+print("{} * {} = {}".format(x,y,x*y))
+print("{} / {} = {}".format(x,y,x/y))
+print("{} = {} (mod {})".format(x,x%y,y))

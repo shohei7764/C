@@ -1,0 +1,5 @@
+x = input("what is x?\n")
+y = input("what is y?\n")
+z = input("what is z?\n")
+print("{} + {} + {} = {}".format(x,y,z,x+y+z))
+print("{} / 3 = {}".format(x+y+z,(x+y+z)/3))
